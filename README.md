@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Steven Truong and I am a first year Computer Science Major at UCI!
+My name is **Steven Truong** and I am a first year Computer Science Major at UCI! I am interested in software design and creating user interfaces that *flow* and build cohesive experiences. 
 
-You can contact me on [Instagram](https://www.instagram.com/stehhven/) or Discord @ ste#7322.
+You can contact me on [Instagram](https://www.instagram.com/stehhven/) or [Discord](ste#7322).
 <!--
 **stectr/stectr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
