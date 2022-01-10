@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Steven Truong** and I am a first year Computer Science Major at UCI! I am interested in software design and creating user interfaces that *flow* and build cohesive experiences. 
+My name is **Steven Truong** and I am a first year Computer Science Major at UCI! I am interested in software design and creating user interfaces that *flow* and build cohesive experiences. My hobbies are [music](https://open.spotify.com/user/22wuvflylmfcylehjha3xob6i?si=36041e4f87534979), gaming, and tennis. 
 
 You can contact me on [Instagram](https://www.instagram.com/stehhven/) or Discord @ ste#7322.
 <!--
